@@ -20,7 +20,6 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=update
 spring.mvc.pathmatch.matching-strategy=ANT_PATH_MATCHER
 
-STRIPE_SECRET_KEY=sk_test_51Mb1NaHH5CTazqICsnLxQCaemfwrcCHyC1V6K60wfuf58va7answw8xbDjsJgpcY0ruZYDuaQ4zV6N2ieaUGEH8L009CURuF0V
 
 BASE_URL=http://localhost:8081/
 ```
