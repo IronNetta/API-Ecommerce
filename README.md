@@ -81,4 +81,5 @@ L'API sera accessible à l'URL : `http://localhost:8081/`.
 Les contributions sont les bienvenues ! Veuillez soumettre une demande de tirage avec vos modifications.
 
 ## Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
