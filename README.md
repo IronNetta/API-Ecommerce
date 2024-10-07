@@ -3,6 +3,8 @@
 ## Description
 Cette API permet de gérer un site e-commerce, y compris la gestion des utilisateurs, des produits, des catégories, des paniers et des listes de souhaits. Elle intègre Stripe pour les paiements.
 
+![Description de l'image](Sans titre.png)
+
 ## Installation
 
 ### Prérequis
